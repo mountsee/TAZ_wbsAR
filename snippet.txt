@@ -1,4 +1,4 @@
-<model-viewer src="14091_objTest2.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" camera-orbit="91.92deg 85.78deg 3730m" field-of-view="12deg">
+<model-viewer src="14091_objTest2.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" camera-orbit="76.02deg 73.72deg 504.6m" field-of-view="17.6deg" exposure="0.79">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
